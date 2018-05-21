@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "nodemailer": "^4.6.4",
-    "promise": "^8.0.1",
     "sqlite3": "^4.0.0"
   }
 }
