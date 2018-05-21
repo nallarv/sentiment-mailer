@@ -18,6 +18,8 @@ This application has the following dependencies
 * sqlite3 - 4.0.0 - To connect to sqlite database
 * nodemailer - 4.6.4 - To email using gmail.
 
+It uses this email template https://github.com/leemunroe/responsive-html-email-template
+
 
 # Install application dependencies
 * Open a terminal
