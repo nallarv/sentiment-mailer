@@ -1,0 +1,16 @@
+{
+  "name": "sentiment-mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Rana Nalla",
+  "scripts": {
+    "start": "node sentiment-mailer.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^4.6.4",
+    "promise": "^8.0.1",
+    "sqlite3": "^4.0.0"
+  }
+}
