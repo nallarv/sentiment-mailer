@@ -27,6 +27,8 @@ This application has the following dependencies
     npm install
 ```
 # To run the application
+* Update the email address and password with the credentials you want to use in `sendmail.js`.
+* Make sure you configured the email address you are using is configured to allow less secure apps by going [here](https://myaccount.google.com/lesssecureapps)
 ```bash
     node sentiment-mailer.js 
 ```
